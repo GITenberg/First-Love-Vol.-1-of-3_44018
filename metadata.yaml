@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37431'
     url: http://www.gutenberg.org/2009/agents/37431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44018#First-Love-Vol.-1-of-3
 gutenberg_issued: '2013-10-23'
 gutenberg_type: Text
 identifiers:
